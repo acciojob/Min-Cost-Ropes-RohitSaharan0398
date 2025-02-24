@@ -1,5 +1,5 @@
 
-unction binarySearchInsertIndex(arr, value) {
+function binarySearchInsertIndex(arr, value) {
     let left = 0;
     let right = arr.length;
     while (left < right) {
